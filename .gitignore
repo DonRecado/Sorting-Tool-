@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Sorting Tool/task/build/
+/Sorting Tool/task/out/
+/Sorting Tool/task/out/production/classes/
+/Topics/Encapsulating object creation/Static factory methods for Time/out/
+/Topics/Encapsulating object creation/Static factory methods for Time/out/production/classes/
